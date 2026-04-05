@@ -16,9 +16,9 @@
 const vikas = {
   name: "Vikas Gangwar",
   role: "MERN Stack Developer & Competitive Programmer",
-  location: "India 🇮🇳",
+  location: "Bareilly Uttarpradesh , India 🇮🇳",
   stack: ["MongoDB", "Express.js", "React", "Node.js"],
-  languages: ["JavaScript", "C++", "HTML/CSS"],
+  languages: ["JavaScript", "C++", "HTML/CSS", C],
   currentlyLearning: ["System Design", "Redis", "Docker"],
   openTo: "SDE Internships & Full-Time Roles",
   motto: "First solve the problem. Then write the code."
@@ -67,7 +67,7 @@ const vikas = {
 |----------|--------|--------|
 | 🟡 LeetCode | [officialvikas455](https://leetcode.com/) | 500+ Problems Solved |
 | 🔵 Codeforces | [officialvikas455](https://codeforces.com/) | Specialist (1400+) |
-| 🟢 CodeChef | [officialvikas455](https://codechef.com/) | 3★ Coder |
+| 🟢 CodeChef | [officialvikas455](https://codechef.com/) | 2★ Coder |
 
 **Topics Mastered:** Arrays · Strings · Binary Search · Trees · Graphs · Dynamic Programming · BFS/DFS · Sliding Window · Two Pointers
 
@@ -136,7 +136,7 @@ const vikas = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/officialvikas455)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-gangwar-3b763b308)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/officialvikas455)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/officialvikas455)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikas.gangwar@gmail.com)
