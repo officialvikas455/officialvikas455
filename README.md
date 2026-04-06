@@ -128,6 +128,7 @@ const vikas = {
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></td>
       <td align="center"><strong>vikasgangwar17</strong></td>
+       <td align="center"><code>200+ Problems Solved</code></td>
       <td align="center"><code>Specialist ·1400+ Rating</code></td>
       <td align="center"><img src="https://img.shields.io/badge/-Specialist-1F8ACB?style=flat-square"/></td>
     </tr>
