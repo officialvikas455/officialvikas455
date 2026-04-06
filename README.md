@@ -131,6 +131,9 @@ const vikas: Developer = {
 | ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white) | **vikasgangwar17** | 200+ Problems Solved | `1400+ · Specialist` | ![Specialist](https://img.shields.io/badge/-Specialist-1F8ACB?style=flat-square) |
 | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) | **gangwar6398** | 2★ Rated Coder | `2★` | ![Active](https://img.shields.io/badge/-Active-22c55e?style=flat-square) |
 | ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) | **vikasgangwar63** | 200+ Problems Solved | — | ![Active](https://img.shields.io/badge/-Active-22c55e?style=flat-square) |
+| ![Coding Ninja](https://img.shields.io/badge/CodingNinjas-2F8D46?style=for-the-badge&logo=codingninjas&logoColor=white) | **Vikas Gangwar | 100+ Problems Solved | — | ![Active](https://img.shields.io/badge/-Active-22c55e?style=flat-square) |
+
+
 
 <br/>
 
