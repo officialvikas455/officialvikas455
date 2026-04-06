@@ -122,18 +122,25 @@ const vikas = {
       <td align="center"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></td>
       <td align="center"><strong>Vikas Gangwar</strong></td>
       <td align="center"><code>500+ Problems Solved</code></td>
+      <td align="center"><code>1617 .Max-Rating</code></td>
       <td align="center"><img src="https://img.shields.io/badge/-Active-00d4aa?style=flat-square"/></td>
     </tr>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></td>
       <td align="center"><strong>vikasgangwar17</strong></td>
-      <td align="center"><code>Specialist · 1400+ Rating</code></td>
+      <td align="center"><code>Specialist ·1400+ Rating</code></td>
       <td align="center"><img src="https://img.shields.io/badge/-Specialist-1F8ACB?style=flat-square"/></td>
     </tr>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></td>
       <td align="center"><strong>gangwar6398</strong></td>
       <td align="center"><code>2★ Rated Coder</code></td>
+      <td align="center"><img src="https://img.shields.io/badge/-2%E2%98%85-5B4638?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/geeksforgeeks-5B4638?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></td>
+      <td align="center"><strong>vikasgangwar63</strong></td>
+       <td align="center"><code>200+ Problems Solved</code></td>
       <td align="center"><img src="https://img.shields.io/badge/-2%E2%98%85-5B4638?style=flat-square"/></td>
     </tr>
   </tbody>
