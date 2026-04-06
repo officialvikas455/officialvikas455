@@ -246,6 +246,9 @@ const vikas = {
 <a href="https://www.codechef.com/users/gangwar6398">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
+    <a href="https://www.geeksforgeeks.org/users/vikasgangwar63">
+  <img src="https://img.shields.io/badge/geeksforgeeks-5B4638?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 &nbsp;
 <a href="mailto:gangwarvikas6398@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
