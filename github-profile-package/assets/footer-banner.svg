@@ -1,0 +1,22 @@
+<svg viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradFooter" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161B33"/>
+      <stop offset="100%" stop-color="#0B1120"/>
+    </linearGradient>
+    <pattern id="dotGridFooter" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#7DD3FC" opacity="0.15"/>
+    </pattern>
+    <clipPath id="roundedCornersFooter">
+      <rect x="0" y="0" width="1200" height="140" rx="24" ry="24"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#roundedCornersFooter)">
+    <rect width="1200" height="140" fill="url(#bgGradFooter)"/>
+    <rect width="1200" height="140" fill="url(#dotGridFooter)"/>
+    <rect x="0" y="0" width="1200" height="4" fill="#E8C170" opacity="0.85"/>
+    <text x="600" y="66" text-anchor="middle" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="24" font-weight="700" fill="#F8FAFC">Thanks for stopping by <tspan fill="#E8C170">👋</tspan></text>
+    <text x="600" y="97" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#94A3B8">"First solve the problem. Then write the code."</text>
+    <rect x="555" y="111" width="90" height="3" rx="1.5" fill="#E8C170"/>
+  </g>
+</svg>
