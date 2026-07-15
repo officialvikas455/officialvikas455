@@ -179,7 +179,7 @@ Full-stack property rental platform built on the MERN stack, supporting 3 distin
 | **Performance** | Optimised image upload/transform pipeline via Cloudinary CDN across 50+ listings |
 | **Security** | JWT authentication + Role-Based Access Control (RBAC) · Bcrypt password hashing |
 | **Impact** | Production-style multi-role architecture with secure, permission-managed routing |
-| **Repository** | [github.com/officialvikas455/WanderLust-1](https://github.com/officialvikas455/WanderLust-1) |
+| **Repository** | [github.com/officialvikas455/WanderLust](https://github.com/officialvikas455/WanderLust-1) |
 
 Designed and implemented following REST best practices — stateless design, correct HTTP methods and status codes — with a focus on secure, scalable route access across all three user roles.
 
@@ -201,7 +201,7 @@ A fully responsive, single-page stock trading dashboard replicating the Zerodha 
 | **Performance** | Interactive candlestick & line charts (Chart.js) across 20+ stocks |
 | **Security** | JWT token-based session management on all secured API routes |
 | **Impact** | Pixel-accurate, mobile-first Kite UI clone with persistent MongoDB-backed order history |
-| **Repository** | *(add repo link here)* |
+| **Repository** | https://github.com/officialvikas455/Zerodha-Clone |
 
 Built with React Hooks and state management for a responsive watchlist, P&L calculator, and portfolio dashboard — styled pixel-for-pixel against the real Zerodha Kite interface.
 
