@@ -240,7 +240,7 @@ Built with React Hooks and state management for a responsive watchlist, P&L calc
 |:-----------:|:--------|
 | 🧩 **500+ DSA Problems Solved** | Across LeetCode, Codeforces, and CodeChef |
 | 🥇 **Peak LeetCode Rating** | 1588 |
-| 🥈 **Peak Codeforces Rating** | 908 |
+| 🥈 **Peak Codeforces Rating** | 1080 |
 | ⭐ **CodeChef Rating** | 2★ Rated Coder |
 | 🏁 **Competitive Rounds** | 50+ contest participations |
 | 🎖️ **MERN Stack Developer Certification** | Apna College — full-stack curriculum: MongoDB, Express.js, React.js, Node.js, REST APIs, deployment |
