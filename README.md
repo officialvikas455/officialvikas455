@@ -76,7 +76,7 @@ const vikas: Developer = {
 
   cp: {
     leetcode  : "500+ Problems Solved · Peak Rating: 1588 🟡",
-    codeforces: "Peak Rating: 908  [ vikasgangwar17 ] 🔵",
+    codeforces: "Peak Rating: 1080  [ vikasgangwar17 ] 🔵",
     codechef  : "2★ Rated Coder  [ gangwar6398 ] 🍴",
     topics    : ["DP", "Graphs", "Trees", "Binary Search", "Sorting", "Greedy"],
   },
@@ -276,7 +276,7 @@ Built with React Hooks and state management for a responsive watchlist, P&L calc
 | Platform | Handle | Achievement | Rating |
 |:--------:|:------:|:-----------:|:------:|
 | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | **Vikas_Gangwar** | 500+ Problems Solved | Peak: 1588 |
-| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | **vikasgangwar17** | 50+ Contests | Peak: 908 |
+| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | **vikasgangwar17** | 50+ Contests | Peak: 1080|
 | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | **gangwar6398** | 2★ Rated Coder | 2★ |
 
 </div>
