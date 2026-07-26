@@ -75,8 +75,8 @@ const vikas: Developer = {
   },
 
   cp: {
-    leetcode  : "500+ Problems Solved · Peak Rating: 1588 🟡",
-    codeforces: "Peak Rating: 1080  [ vikasgangwar17 ] 🔵",
+    leetcode  : "500+ Problems Solved · Peak Rating: 1597 🟡",
+    codeforces: "Peak Rating: 1090  [ vikasgangwar17 ] 🔵",
     codechef  : "2★ Rated Coder  [ gangwar6398 ] 🍴",
     topics    : ["DP", "Graphs", "Trees", "Binary Search", "Sorting", "Greedy"],
   },
@@ -239,8 +239,8 @@ Built with React Hooks and state management for a responsive watchlist, P&L calc
 | Recognition | Details |
 |:-----------:|:--------|
 | 🧩 **500+ DSA Problems Solved** | Across LeetCode, Codeforces, and CodeChef |
-| 🥇 **Peak LeetCode Rating** | 1588 |
-| 🥈 **Peak Codeforces Rating** | 1080 |
+| 🥇 **Peak LeetCode Rating** | 1597 |
+| 🥈 **Peak Codeforces Rating** | 1090 |
 | ⭐ **CodeChef Rating** | 2★ Rated Coder |
 | 🏁 **Competitive Rounds** | 50+ contest participations |
 | 🎖️ **MERN Stack Developer Certification** | Apna College — full-stack curriculum: MongoDB, Express.js, React.js, Node.js, REST APIs, deployment |
