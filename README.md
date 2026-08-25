@@ -420,5 +420,7 @@ currently:
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=officialvikas455&color=a78bfa&style=for-the-badge&label=Profile+Views"/>
+[![trophy](https://vercel.app)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
