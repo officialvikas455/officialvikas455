@@ -1,426 +1,490 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Vikas%20Gangwar&fontSize=62&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20SDE%20Intern%20Aspirant&descAlignY=62&fontColor=ffffff&descColor=a5b4fc&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Vikas%20Gangwar&fontSize=58&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20SDE%20Intern%20Aspirant&descAlignY=61&fontColor=FFFFFF&descColor=A5B4FC&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey!+I'm+Vikas+Gangwar+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%9A%80;B.Tech+IT+%40+AKTU+Lucknow+%F0%9F%8E%93;500%2B+DSA+Problems+Solved+%E2%9C%85;Building+Production-Grade+Web+Apps+%F0%9F%92%BB;Open+to+SDE+Internships+%F0%9F%92%BC" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Hey!+I'm+Vikas+Gangwar+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%9A%80;B.Tech+IT+Student+%F0%9F%8E%93;500%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Building+Real-World+Web+Applications+%F0%9F%92%BB;Open+to+Software+Engineering+Internships+%F0%9F%92%BC" alt="Typing SVG"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%8E%93%20B.Tech-Information%20Technology%2C%20AKTU-a78bfa?style=flat-square&labelColor=1e1b4b"/>
+<img src="https://img.shields.io/badge/%F0%9F%8E%93-B.Tech%20IT%20%7C%20AKTU-A78BFA?style=flat-square&labelColor=1E1B4B"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Bareilly%2C%20U.P.%2C%20India-a78bfa?style=flat-square&labelColor=1e1b4b"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%8D-Uttar%20Pradesh%2C%20India-A78BFA?style=flat-square&labelColor=1E1B4B"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%92%BC%20Open%20To-SDE%20Internships-818cf8?style=flat-square&labelColor=1e1b4b"/>
+<img src="https://img.shields.io/badge/%F0%9F%92%BC-Open%20to%20SDE%20Internships-818CF8?style=flat-square&labelColor=1E1B4B"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Stack-MERN%20%7C%20AWS%20%7C%20C%2B%2B-6366f1?style=flat-square&labelColor=1e1b4b"/>
+<img src="https://img.shields.io/badge/%F0%9F%A7%A0-MERN%20%7C%20AWS%20%7C%20C%2B%2B-6366F1?style=flat-square&labelColor=1E1B4B"/>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/officialvikas455">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:gangwarvikas6398@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://github.com/officialvikas455">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=officialvikas455&color=a78bfa&style=flat-square&label=Profile+Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/officialvikas455?label=Followers&style=flat-square&color=818cf8&labelColor=1e1b4b"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/officialvikas455?affiliations=OWNER&style=flat-square&color=6366f1&labelColor=1e1b4b&label=Stars"/>
+<img src="https://komarev.com/ghpvc/?username=officialvikas455&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🧑‍💻 About Me
 
-<br/>
+I'm **Vikas Gangwar**, a B.Tech Information Technology student and **Full Stack Developer** focused on building modern, scalable and production-oriented web applications.
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; About Me
+I work primarily with the **MERN stack**, while continuously improving my understanding of backend architecture, authentication, real-time systems, cloud deployment and data structures.
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="margin-left: 20px;"/>
+### What I focus on
 
-Results-driven **Full Stack Developer** and B.Tech Information Technology student with hands-on experience building and deploying scalable **MERN stack** web applications. I focus on clean RESTful API design, secure authentication (JWT, RBAC, Bcrypt), and responsive, production-ready interfaces with React.js and Tailwind CSS.
-
-Beyond web development, I bring strong problem-solving fundamentals from **500+ Data Structures & Algorithms** problems solved across LeetCode, Codeforces, and CodeChef — with real depth in Dynamic Programming, Graphs, Trees, and Binary Search.
+* 🚀 Full Stack Development with **React, Node.js, Express & MongoDB**
+* 🔐 Authentication & authorization using **JWT, RBAC & Bcrypt**
+* 🎥 Real-time applications using **WebRTC & Socket.io**
+* 🔌 RESTful API design and backend architecture
+* 🧠 Data Structures & Algorithms
+* ☁️ AWS, Docker and deployment fundamentals
+* 💼 Preparing for **Software Engineering Internships**
 
 ```typescript
 const vikas: Developer = {
-  name        : "Vikas Gangwar",
-  username    : "officialvikas455",
-  pronouns    : "he / him",
-  role        : "Full Stack Developer (MERN) & B.Tech IT Student",
-  location    : "Bareilly, Uttar Pradesh, India 🇮🇳",
-  education   : "B.Tech, Information Technology — AKTU, Lucknow (2024–2028)",
+  name: "Vikas Gangwar",
+  username: "officialvikas455",
 
-  stack: {
-    languages : ["JavaScript (ES6+)", "C", "C++", "SQL", "HTML5", "CSS3"],
-    frontend  : ["React.js (Hooks, Redux)", "Tailwind CSS", "Bootstrap", "Responsive Web Design"],
-    backend   : ["Node.js", "Express.js", "REST APIs", "JWT Auth", "Bcrypt", "MVC Architecture"],
-    database  : ["MongoDB (Mongoose)", "MySQL", "PostgreSQL"],
-    cloud     : ["AWS (EC2, S3, RDS)", "Docker", "Jenkins", "CI/CD"],
-    tools     : ["Git", "GitHub", "Postman", "VS Code", "Cloudinary", "npm"],
-  },
+  role: "Full Stack Developer",
+  education: "B.Tech Information Technology — AKTU",
+  location: "Uttar Pradesh, India 🇮🇳",
 
-  cp: {
-    leetcode  : "500+ Problems Solved · Peak Rating: 1597 🟡",
-    codeforces: "Peak Rating: 1090  [ vikasgangwar17 ] 🔵",
-    codechef  : "2★ Rated Coder  [ gangwar6398 ] 🍴",
-    topics    : ["DP", "Graphs", "Trees", "Binary Search", "Sorting", "Greedy"],
-  },
+  languages: [
+    "JavaScript",
+    "C++",
+    "C",
+    "SQL"
+  ],
 
-  openTo    : "Software Engineering Internships 💼",
-  motto     : '"First solve the problem. Then write the code." ⚡',
+  frontend: [
+    "React",
+    "Redux",
+    "Tailwind CSS",
+    "Bootstrap"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "REST APIs"
+  ],
+
+  databases: [
+    "MongoDB",
+    "MySQL",
+    "PostgreSQL"
+  ],
+
+  realtime: [
+    "WebRTC",
+    "Socket.io"
+  ],
+
+  cloud: [
+    "AWS",
+    "Docker",
+    "Jenkins"
+  ],
+
+  interests: [
+    "Full Stack Development",
+    "Backend Engineering",
+    "Real-Time Systems",
+    "DSA",
+    "System Design"
+  ],
+
+  openTo: "Software Engineering Internships"
 };
 ```
 
-<br clear="right"/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🛠️ Tech Stack
 
-<br/>
+### 💻 Languages
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp; Tech Stack & Skills
+<p>
+<img src="https://skillicons.dev/icons?i=js,cpp,c,html,css&theme=dark"/>
+</p>
 
-<div align="center">
+### 🌐 Frontend
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap&theme=dark"/>
+</p>
 
-**💻 Languages**
+### ⚙️ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=js,cpp,c,html,css&theme=dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark"/>
+</p>
 
-<br/><br/>
+### 🎥 Real-Time & Communication
 
-**🌐 Frontend**
+<p>
 
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap&theme=dark" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 
-<br/><br/>
+</p>
 
-**⚙️ Backend & Databases**
+### ☁️ Cloud, DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,postman,vscode,linux&theme=dark"/>
+</p>
 
-<br/><br/>
+---
 
-**☁️ Cloud, DevOps & Tooling**
+# 🚀 Featured Projects
 
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,postman,vscode,linux&theme=dark" />
+## 🎥 Video Conferencing Platform
 
-<br/><br/>
+> **Real-time video conferencing platform built for secure meetings, real-time communication and collaborative sessions.**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🧰 Tech Stack
 
-</div>
+`React` · `Node.js` · `Express.js` · `MongoDB` · `WebRTC` · `Socket.io` · `JWT` · `Tailwind CSS`
 
-<br/>
+### ✨ Key Features
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+* 🎥 Real-time **video and audio communication**
+* 🔴 Live meeting rooms
+* 👥 Real-time participant updates
+* 📹 Peer-to-peer media communication using **WebRTC**
+* 🔌 Real-time signaling using **Socket.io**
+* 🔐 JWT-based authentication
+* 👤 User registration and login
+* 🛡️ Protected routes and authentication middleware
+* 🗓️ Meeting creation and room management
+* 💬 Real-time communication
+* 🗄️ MongoDB-backed user and meeting data
+* 📱 Responsive UI for desktop and mobile
 
-<br/>
+### 🏗️ Architecture
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28"> &nbsp; Core Engineering Focus
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:------:|:-----------:|:--------|
-| **Full Stack (MERN)** | ⭐⭐⭐⭐⭐ | End-to-end app development: React front ends, Express/Node APIs, MongoDB persistence |
-| **REST API Design** | ⭐⭐⭐⭐ | Stateless design, proper HTTP methods/status codes, 15+ APIs built for production use |
-| **Auth & Security** | ⭐⭐⭐⭐ | JWT-based authentication, Role-Based Access Control (RBAC), Bcrypt password hashing |
-| **Cloud & DevOps** | ⭐⭐⭐ | AWS (EC2, S3, RDS), Docker, Jenkins CI/CD pipelines |
-| **DSA & Problem Solving** | ⭐⭐⭐⭐ | 500+ problems solved; strong in DP, Graphs, Trees, Binary Search, Greedy |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🚀 Featured Projects
-
-<br/>
-
-<details>
-<summary><b>🏡 WanderLust — Full Stack Property Rental Web Application (2025)</b></summary>
-
-<br/>
-
-Full-stack property rental platform built on the MERN stack, supporting 3 distinct user roles (admin, host, guest) with secure, permission-managed access.
-
-| Attribute | Detail |
-|:---------:|:-------|
-| **Stack** | MongoDB · Express.js · React.js · Node.js · JWT · Cloudinary · Bcrypt |
-| **Scale** | 15+ RESTful APIs · full CRUD for listings, accounts, bookings |
-| **Performance** | Optimised image upload/transform pipeline via Cloudinary CDN across 50+ listings |
-| **Security** | JWT authentication + Role-Based Access Control (RBAC) · Bcrypt password hashing |
-| **Impact** | Production-style multi-role architecture with secure, permission-managed routing |
-| **Repository** | [github.com/officialvikas455/WanderLust](https://github.com/officialvikas455/WanderLust-1) |
-
-Designed and implemented following REST best practices — stateless design, correct HTTP methods and status codes — with a focus on secure, scalable route access across all three user roles.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>📈 Zerodha Clone — Full Stack Stock Trading Web Application (2026)</b></summary>
-
-<br/>
-
-A fully responsive, single-page stock trading dashboard replicating the Zerodha Kite UI, with real-time portfolio tracking and simulated order execution.
-
-| Attribute | Detail |
-|:---------:|:-------|
-| **Stack** | React.js 19 · Node.js · Express.js · MongoDB · Chart.js · JWT · Tailwind CSS |
-| **Scale** | Simulated order engine processing 100+ buy/sell transactions |
-| **Performance** | Interactive candlestick & line charts (Chart.js) across 20+ stocks |
-| **Security** | JWT token-based session management on all secured API routes |
-| **Impact** | Pixel-accurate, mobile-first Kite UI clone with persistent MongoDB-backed order history |
-| **Repository** | https://github.com/officialvikas455/Zerodha-Clone |
-
-Built with React Hooks and state management for a responsive watchlist, P&L calculator, and portfolio dashboard — styled pixel-for-pixel against the real Zerodha Kite interface.
-
-</details>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Duration | Score |
-|:------:|:-----------:|:--------:|:-----:|
-| **B.Tech, Information Technology** | Dr. APJ Abdul Kalam Technical University (AKTU), Lucknow | 2024 – 2028 | CGPA: 7.7 / 10.0 |
-| **Intermediate (PCM)** | Jesus & Mary Inter College, Nawabganj, Bareilly | 2023 | 87% |
-
-</div>
-
-**Relevant Coursework:** Data Structures & Algorithms · Object-Oriented Programming (OOP) · Database Management Systems (DBMS) · Operating Systems · Computer Networks · Software Engineering · Web Development (MERN Stack — Apna College)
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:-----------:|:--------|
-| 🧩 **500+ DSA Problems Solved** | Across LeetCode, Codeforces, and CodeChef |
-| 🥇 **Peak LeetCode Rating** | 1597 |
-| 🥈 **Peak Codeforces Rating** | 1090 |
-| ⭐ **CodeChef Rating** | 2★ Rated Coder |
-| 🏁 **Competitive Rounds** | 50+ contest participations |
-| 🎖️ **MERN Stack Developer Certification** | Apna College — full-stack curriculum: MongoDB, Express.js, React.js, Node.js, REST APIs, deployment |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🧩 Coding Profiles
-
-<div align="center">
-
-<br/>
-
-<a href="https://leetcode.com/vikasgangwar6666/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://codeforces.com/profile/vikasgangwar17">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.codechef.com/users/gangwar6398">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-| Platform | Handle | Achievement | Rating |
-|:--------:|:------:|:-----------:|:------:|
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | **Vikas_Gangwar** | 500+ Problems Solved | Peak: 1588 |
-| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | **vikasgangwar17** | 50+ Contests | Peak: 1080|
-| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | **gangwar6398** | 2★ Rated Coder | 2★ |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=officialvikas455&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=818cf8&text_color=c9d1d9&border_radius=16"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialvikas455&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=16"/>
-
-<br/><br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=officialvikas455&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=818cf8&fire=6366f1&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&border_radius=16"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=officialvikas455&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=officialvikas455&bg_color=0d1117&color=a78bfa&line=818cf8&point=6366f1&area=true&area_color=a78bfa&hide_border=true&radius=10" width="100%"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🌱 Current Focus
-
-```yaml
-currently:
-  learning:
-    - System Design (LLD, HLD, Microservices, Load Balancers, Scalability)
-    - Advanced DSA (Segment Trees, DP on Graphs, Tries)
-    - Docker & Redis for caching and containerization
-
-  building:
-    - Production-grade full stack applications with the MERN stack
-    - Secure, scalable REST APIs with role-based access control
-
-  exploring:
-    - AWS infrastructure & deployment (EC2, S3, RDS)
-    - CI/CD pipelines with Jenkins
-
-  open_to:
-    - Software Engineering Internships 💼
+```text
+                    ┌────────────────────┐
+                    │    React Client    │
+                    └─────────┬──────────┘
+                              │
+                ┌─────────────┴─────────────┐
+                │                           │
+                ▼                           ▼
+        ┌──────────────┐           ┌────────────────┐
+        │   WebRTC     │           │   Socket.io    │
+        │ Media Stream │           │    Signaling   │
+        └──────┬───────┘           └───────┬────────┘
+               │                           │
+               ▼                           ▼
+        Peer-to-Peer                 Node.js Server
+        Communication                      │
+                                           ▼
+                                    Express.js API
+                                           │
+                                           ▼
+                                      MongoDB
 ```
 
-<br/>
+### 🧠 Engineering Concepts
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+`WebRTC` · `WebSockets` · `Real-Time Communication` · `JWT Authentication` · `REST APIs` · `Protected Routes` · `MongoDB` · `React State Management`
 
-<br/>
+**Repository:**
+👉 https://github.com/officialvikas455
 
-## 📬 Let's Connect
+---
+
+## 🏡 WanderLust — Property Rental Platform
+
+> **Full-stack property rental application with multi-role authentication and secure resource management.**
+
+### 🧰 Tech Stack
+
+`MongoDB` · `Express.js` · `React` · `Node.js` · `JWT` · `Cloudinary` · `Bcrypt`
+
+### ✨ Key Features
+
+* 🔐 Role-based authentication for **Admin, Host & Guest**
+* 🔑 JWT authentication
+* 🔒 Bcrypt password hashing
+* 🏗️ RESTful API architecture
+* 📝 Complete CRUD operations
+* ☁️ Cloudinary image upload
+* 🛡️ Protected routes
+* 🧩 Role-based authorization
+* 📱 Responsive frontend
+
+**Repository:**
+👉 https://github.com/officialvikas455/WanderLust-1
+
+---
+
+## 📈 Zerodha Clone — Trading Dashboard
+
+> **Full-stack stock trading dashboard inspired by the Zerodha Kite experience.**
+
+### 🧰 Tech Stack
+
+`React` · `Node.js` · `Express` · `MongoDB` · `JWT` · `Chart.js` · `Tailwind CSS`
+
+### ✨ Key Features
+
+* 📊 Interactive stock charts
+* 💹 Simulated buy/sell workflow
+* 📈 Portfolio tracking
+* 💰 P&L calculation
+* 👀 Dynamic watchlist
+* 🔐 JWT protected API routes
+* 💾 Persistent MongoDB order history
+* 📱 Responsive trading interface
+
+**Repository:**
+👉 https://github.com/officialvikas455/Zerodha-Clone
+
+---
+
+# 🧠 DSA & Competitive Programming
+
+I actively practice **Data Structures, Algorithms and Competitive Programming** to strengthen problem-solving and coding fundamentals.
 
 <div align="center">
+
+|      Platform     |        Achievement       |
+| :---------------: | :----------------------: |
+|  🟡 **LeetCode**  | **500+ Problems Solved** |
+| 🔵 **Codeforces** |     **50+ Contests**     |
+|  🟤 **CodeChef**  |    **2★ Rated Coder**    |
+
+</div>
+
+### Core DSA Topics
+
+```text
+Arrays
+Strings
+Two Pointers
+Sliding Window
+Binary Search
+Sorting
+Greedy
+Linked Lists
+Stacks & Queues
+Trees
+Graphs
+Heaps
+Dynamic Programming
+Recursion
+Backtracking
+```
+
+---
+
+# ⚙️ Core Engineering Focus
+
+<div align="center">
+
+| Area              | Focus                                         |
+| :---------------- | :-------------------------------------------- |
+| 🌐 **Full Stack** | React + Node.js + Express + MongoDB           |
+| 🔌 **Backend**    | REST APIs · MVC · Middleware · Error Handling |
+| 🔐 **Security**   | JWT · RBAC · Bcrypt · Protected Routes        |
+| 🎥 **Real-Time**  | WebRTC · Socket.io · WebSockets               |
+| 🗄️ **Databases** | MongoDB · MySQL · PostgreSQL                  |
+| ☁️ **Cloud**      | AWS · EC2 · S3 · RDS                          |
+| 🐳 **DevOps**     | Docker · Jenkins · CI/CD                      |
+| 🧠 **DSA**        | Graphs · Trees · DP · Binary Search           |
+
+</div>
+
+---
+
+# 🎓 Education
+
+### B.Tech — Information Technology
+
+**Dr. APJ Abdul Kalam Technical University (AKTU)**
+`2024 – 2028`
+
+**CGPA:** `7.7 / 10`
+
+### Intermediate — PCM
+
+**Jesus & Mary Inter College, Nawabganj, Bareilly**
+`2023`
+
+**Percentage:** `87%`
+
+### Relevant Coursework
+
+`Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `Software Engineering`
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+| Achievement                    | Details                                   |
+| :----------------------------- | :---------------------------------------- |
+| 🧩 **DSA**                     | 500+ problems solved                      |
+| 🏁 **Competitive Programming** | 50+ contests                              |
+| ⭐ **CodeChef**                 | 2★ Rated Coder                            |
+| 💻 **Full Stack**              | Multiple MERN applications built          |
+| 🔐 **Backend**                 | Authentication & REST API implementations |
+| 🎥 **Real-Time Systems**       | Built video conferencing application      |
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+```yaml
+current_focus:
+
+  full_stack:
+    - Advanced React
+    - Backend Architecture
+    - Authentication & Security
+    - REST API Design
+
+  real_time:
+    - WebRTC
+    - Socket.io
+    - WebSockets
+
+  system_design:
+    - LLD
+    - HLD
+    - Scalability
+    - Load Balancing
+    - Caching
+
+  devops:
+    - Docker
+    - Redis
+    - AWS
+    - CI/CD
+
+  dsa:
+    - Advanced Dynamic Programming
+    - Graph Algorithms
+    - Segment Trees
+    - Tries
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=officialvikas455&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&border_radius=12"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialvikas455&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_radius=12"/>
+
+<br/><br/>
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=officialvikas455&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=818CF8&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&border_radius=12"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=officialvikas455&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=7C3AED&hide_border=true&radius=8" width="100%"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=officialvikas455&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+---
+
+# 🔗 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/vikasgangwar6666/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/vikasgangwar17">
+<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/gangwar6398">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### 💻 Full Stack Development · 🧠 DSA · 🚀 Backend · 🎥 Real-Time Systems
 
 <br/>
 
 <a href="https://linkedin.com/in/officialvikas455">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:gangwarvikas6398@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://github.com/officialvikas455">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/vikasgangwar6666/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://codeforces.com/profile/vikasgangwar17">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.codechef.com/users/gangwar6398">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-> 💬 *Always open to collaborating on interesting projects, discussing DSA, or exploring internship opportunities!*
+> 💬 *Always open to collaborating on interesting projects, discussing DSA, and exploring software engineering opportunities.*
+
+<br/>
+
+### ⚡ "First solve the problem. Then write the code."
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=officialvikas455&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <div align="center">
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=160&section=footer&text=Thanks%20for%20Visiting!%20%F0%9F%99%8C&fontSize=32&fontColor=a5b4fc&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<br/>
-
-**⚡ "First solve the problem. Then write the code."**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=officialvikas455&color=a78bfa&style=for-the-badge&label=Profile+Views"/>
-[![trophy](https://vercel.app)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
 
 </div>
