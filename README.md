@@ -1,7 +1,7 @@
 <div align="center" id="top">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=Vikas%20Gangwar&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Backend%20Systems%20%7C%20500%2B%20DSA&descAlignY=61&fontColor=FFFFFF&descColor=A5B4FC&animation=fadeIn" width="100%" alt="Vikas Gangwar Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=Software%20Engineer&fontSize=52&fontAlignY=38&desc=Full%20Stack%20%7C%20Backend%20Systems%20%7C%20500%2B%20DSA&descAlignY=61&fontColor=FFFFFF&descColor=A5B4FC&animation=fadeIn" width="100%" alt="Software Engineer Banner"/>
 
 <!-- Dynamic Animated Typing Header -->
 <a href="https://github.com/officialvikas455">
@@ -55,39 +55,6 @@
 </a>
 
 </div>
-
----
-
-## 👨‍💻 About Me
-
-```typescript
-const vikas: Developer = {
-  name: "Vikas Gangwar",
-  handle: "officialvikas455",
-  title: "Full Stack Engineer & SDE Intern Aspirant",
-  education: "B.Tech in Information Technology — REC Mirzapur / AKTU (2024 – 2028)",
-  location: "Uttar Pradesh, India 🇮🇳",
-  
-  coreStack: ["C++", "JavaScript", "TypeScript", "Node.js", "Express.js", "React", "MongoDB"],
-  architecture: ["Real-Time WebRTC Media Channels", "Socket.io Event Signaling", "RESTful APIs & MVC"],
-  cachingAndDevOps: ["Redis", "Docker", "Nginx", "Linux"],
-  
-  competitiveProgramming: {
-    leetcode: "500+ Solved (Top 15%)",
-    codeforces: "50+ Global Contests",
-    codechef: "2★ Rated Coder"
-  },
-  
-  currentFocus: "High-performance backend systems, caching strategies, and system design",
-  openFor: ["Software Engineering Internships", "Backend Roles", "Full Stack Roles"]
-};
-```
-
-### 🎯 Engineering Highlights
-* ⚡ **Scalable Web Applications:** Building maintainable, responsive full-stack applications with robust MVC architectures.
-* 🎥 **Real-Time Mesh Networks:** Engineering peer-to-peer audio/video streaming via **WebRTC** and low-latency signaling hubs via **Socket.IO**.
-* 🧠 **Algorithmic Mastery:** 500+ algorithmic challenges solved on LeetCode with strong intuition in Dynamic Programming, Graph Traversals, and Binary Search.
-* 🛡️ **Secure Backend Pipelines:** Designing production-grade REST APIs protected by JWT authentication, Bcrypt password hashing, and Role-Based Access Control (RBAC).
 
 ---
 
@@ -269,7 +236,7 @@ const vikas: Developer = {
 
 <!-- LeetCode Interactive Card -->
 <a href="https://leetcode.com/vikasgangwar6666/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/vikasgangwar6666?theme=dark&font=JetBrains%20Mono" alt="Vikas Gangwar LeetCode Stats" width="480px"/>
+  <img src="https://leetcard.jacoblin.cool/vikasgangwar6666?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats" width="480px"/>
 </a>
 
 <br/><br/>
