@@ -1,165 +1,722 @@
-<div align="center">
-
-# Vikas Gangwar
-
-**Software Engineer | Full-Stack & Backend Systems | 500+ LeetCode**
-
-B.Tech Information Technology undergraduate focused on building scalable backend architectures, real-time protocols, and robust full-stack applications.
-
-[LinkedIn](https://linkedin.com/in/officialvikas455) &nbsp;•&nbsp; 
-[GitHub](https://github.com/officialvikas455) &nbsp;•&nbsp; 
-[LeetCode](https://leetcode.com/vikasgangwar6666/) &nbsp;•&nbsp; 
-[Codeforces](https://codeforces.com/profile/vikasgangwar17) &nbsp;•&nbsp; 
-[CodeChef](https://www.codechef.com/users/gangwar6398) &nbsp;•&nbsp; 
-[Email](mailto:gangwarvikas6398@gmail.com)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/officialvikas455)
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/vikasgangwar6666/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-50%2B_Contests-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vikasgangwar17)
-[![CodeChef](https://img.shields.io/badge/CodeChef-2%E2%98%85_Rated-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/gangwar6398)
-[![Email](https://img.shields.io/badge/Email-gangwarvikas6398%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gangwarvikas6398@gmail.com)
-
-</div>
-
----
-
-## About Me
-
-- 🎓 **Undergraduate:** B.Tech in Information Technology at Samrat Ashok Rajkiya Engineering College, Mirzapur (2024 – 2028).
-- ⚙️ **Engineering Focus:** Designing modular RESTful services, real-time communication systems, and cache-aside layers with Node.js, Express, MongoDB, and SQL.
-- 🧠 **Problem Solving:** Consistently practiced in Data Structures and Algorithms with **500+ LeetCode problems** solved and **50+ competitive programming contests** across Codeforces and CodeChef.
-- 💼 **Status:** Actively seeking **Software Engineering (SDE) Internships** and entry-level developer roles in high-impact product teams.
-
----
-
-## Technical Skills
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | C++, JavaScript (ES6+), TypeScript, C, HTML5, CSS3 |
-| **Backend & APIs** | Node.js, Express.js, RESTful Architecture, MVC, JWT, RBAC |
-| **Frontend** | React, Redux Toolkit, Tailwind CSS, Bootstrap |
-| **Databases & Caching** | MongoDB, PostgreSQL, MySQL, Redis |
-| **Real-Time & Networking** | WebRTC (Mesh), Socket.IO, Nginx (Reverse Proxy) |
-| **DevOps & Tools** | Docker, Git, GitHub, Linux, Postman |
-| **AI Integration** | Google Gemini API, LLM API Integration |
-
----
-
-## Engineering Focus
-
-- **Backend Architecture & APIs:** Developing modular REST services with clean routing, schema-level input validation, rate limiting, and centralized error-handling middleware.
-- **Authentication & Security:** Implementing stateless authentication via JWT, Bcrypt credential hashing, and fine-grained Role-Based Access Control (RBAC).
-- **Real-Time Communication:** Utilizing WebRTC mesh topology for sub-second audio/video data transfers alongside Socket.IO for signaling handshakes and event broadcasting.
-- **Caching & Infrastructure:** Leveraging Redis for session storage and cache-aside query patterns, with multi-container Docker environments.
-
----
-
-## Featured Projects
-
-### 1. Real-Time Video Conferencing Platform
-Peer-to-peer audio/video meeting platform with low-latency media channels, signaling hub, and room messaging.
-
-`React` `Node.js` `Express.js` `WebRTC` `Socket.IO` `MongoDB` `Tailwind CSS`
-
-- Engineered a peer-to-peer mesh network using **WebRTC**, facilitating direct client-to-client audio/video streaming with minimal server-relay overhead.
-- Built a bidirectional signaling server with **Socket.IO** to manage room discovery, SDP offer/answer exchanges, and ICE candidate negotiation.
-- Protected room endpoints using **JWT-based room authorization** and meeting passcode verification to prevent unauthorized signaling access.
-- Implemented client-side controls for screen sharing, dynamic participant roster synchronization, and live text chat.
-
-👉 [View Source Code](https://github.com/officialvikas455)
-
----
-
-### 2. WanderLust — Vacation Rental Marketplace
-Full-stack property rental application featuring role-based listing management, cloud media storage, and booking workflows.
-
-`Node.js` `Express.js` `React` `MongoDB` `Cloudinary API` `JWT`
-
-- Architected an MVC-based REST API with **Role-Based Access Control (RBAC)** to isolate permissions across Admin, Host, and Guest roles.
-- Integrated **Cloudinary API** for multi-image uploads, thumbnail transformations, and cloud asset hosting.
-- Developed full CRUD flows for property listings, reservation tracking, and nested review systems with MongoDB schema validation.
-- Enforced secure session management using Bcrypt password encryption and HTTP-only authentication cookies.
-
-👉 [View Repository](https://github.com/officialvikas455/WanderLust-1)
-
----
-
-### 3. Zerodha Clone — FinTech Trading Terminal
-Stock trading interface simulating equity order execution, position tracking, and live charting visualizations.
-
-`React` `Node.js` `Express.js` `MongoDB` `Chart.js` `Tailwind CSS`
-
-- Built a financial dashboard replicating core trading terminal workflows with responsive multi-timeframe candlestick and line graphs via **Chart.js**.
-- Implemented client-side transaction logic simulating market and limit orders with margin checks and instant portfolio balance recalculations.
-- Designed schema structures in **MongoDB** for immutable trade transaction histories, open positions, and account ledgers.
-- Modeled real-time unrealized P&L calculations dynamically reflected on user portfolio views.
-
-👉 [View Repository](https://github.com/officialvikas455/Zerodha-Clone)
-
----
-
-### 4. Advanced Backend Architecture & Microservices
-Hands-on containerized backend services demonstrating caching patterns, reverse proxies, and generative AI integration.
-
-`Node.js` `Express.js` `Redis` `Docker` `Nginx` `Google Gemini API`
-
-- Orchestrated backend containers with **Docker Compose**, configuring **Nginx** as a reverse proxy for traffic routing and header normalization.
-- Implemented cache-aside strategies with **Redis** to eliminate redundant database calls and handle temporary key expiration.
-- Integrated **Google Gemini API** into custom Express endpoints to handle structured queries and AI-assisted data formatting.
-
-👉 [View Repository](https://github.com/officialvikas455/Advance-Backend)
-
----
-
-## Problem Solving & Competitive Programming
-
-| Platform | Profile / Handle | Key Metric | Link |
-| :--- | :--- | :--- | :--- |
-| **LeetCode** | `@vikasgangwar6666` | **500+ Problems Solved** (Top 15%) | [Profile](https://leetcode.com/vikasgangwar6666/) |
-| **Codeforces** | `@vikasgangwar17` | **50+ Global Contests** Participated | [Profile](https://codeforces.com/profile/vikasgangwar17) |
-| **CodeChef** | `@gangwar6398` | **2★ Rated** Competitive Programmer | [Profile](https://www.codechef.com/users/gangwar6398) |
-
-**Core Focus:** Dynamic Programming, Graph Algorithms (BFS/DFS, Dijkstra), Binary Search, Heaps, Trees & BST, Two Pointers, and Sliding Window.
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=officialvikas455&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=9CA3AF&border_radius=8" width="48%" alt="GitHub Stats"/>
+<div align="center" id="top">
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=Vikas%20Gangwar&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Backend%20Systems%20%7C%20500%2B%20DSA&descAlignY=61&fontColor=FFFFFF&descColor=A5B4FC&animation=fadeIn" width="100%" alt="Vikas Gangwar Banner"/>
+<!-- Dynamic Animated Typing Header -->
+<a href="https://github.com/officialvikas455">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Software+Engineer+%26+Full+Stack+Developer+%F0%9F%9A%80;Backend+Architectures+%26+RESTful+APIs+%E2%9A%99%EF%B8%8F;Real-Time+WebRTC+%26+Socket.io+Systems+%F0%9F%8E%A5;500%2B+Problems+Solved+on+LeetCode+%F0%9F%A7%A0;B.Tech+IT+%40+AKTU+(2024+-+2028)+%F0%9F%8E%93;Seeking+Software+Engineering+Internships+%F0%9F%92%BC" alt="Typing SVG" />
+</a>
+<br/><br/>
+<!-- Status Badges Row -->
+<a href="#-education--background">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93%20B.Tech%20IT-AKTU-7C3AED?style=for-the-badge&labelColor=0D1117" alt="AKTU IT"/>
+</a>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialvikas455&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=9CA3AF&border_radius=8" width="48%" alt="Top Languages"/>
-
+<a href="https://maps.google.com/?q=Uttar+Pradesh,+India">
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Uttar%20Pradesh%2C%20India-6366F1?style=for-the-badge&labelColor=0D1117" alt="Location"/>
+</a>
+&nbsp;
+<a href="mailto:gangwarvikas6398@gmail.com">
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC%20Status-Open%20to%20SDE%20Roles-818CF8?style=for-the-badge&labelColor=0D1117" alt="Open to SDE Roles"/>
+</a>
+&nbsp;
+<a href="#-dsa--problem-solving-milestones">
+  <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20DSA-500%2B%20Solved-A78BFA?style=for-the-badge&labelColor=0D1117" alt="DSA Solved"/>
+</a>
+<br/><br/>
+<!-- Social Quick Links -->
+<a href="https://linkedin.com/in/officialvikas455" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/vikasgangwar6666/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+&nbsp;
+<a href="https://codeforces.com/profile/vikasgangwar17" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/gangwar6398" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+&nbsp;
+<a href="mailto:gangwarvikas6398@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://github.com/officialvikas455" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 </div>
-
 ---
+## 👨‍💻 About Me
+```typescript
+const vikas: Developer = {
+  name: "Vikas Gangwar",
+  handle: "officialvikas455",
+  title: "Full Stack Engineer & SDE Intern Aspirant",
+  education: "B.Tech in Information Technology — REC Mirzapur / AKTU (2024 – 2028)",
+  location: "Uttar Pradesh, India 🇮🇳",
+  
+  coreStack: ["C++", "JavaScript", "TypeScript", "Node.js", "Express.js", "React", "MongoDB"],
+  architecture: ["Real-Time WebRTC Media Channels", "Socket.io Event Signaling", "RESTful APIs & MVC"],
+  cachingAndDevOps: ["Redis", "Docker", "Nginx", "Linux"],
+  
+  competitiveProgramming: {
+    leetcode: "500+ Solved (Top 15%)",
+    codeforces: "50+ Global Contests",
+    codechef: "2★ Rated Coder"
+  },
+  
+  currentFocus: "High-performance backend systems, caching strategies, and system design",
+  openFor: ["Software Engineering Internships", "Backend Roles", "Full Stack Roles"]
+};
 
-## Education
+  
+🎯 Engineering Highlights
 
-**B.Tech — Information Technology** (2024 – 2028)  
-Samrat Ashok Rajkiya Engineering College, Mirzapur *(AKTU)*  
-- **CGPA:** 7.7 / 10  
-- **Relevant Coursework:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, Computer Networks.
+  
 
----
+  
+⚡ Scalable Web Applications: Building maintainable, responsive full-stack applications with robust MVC architectures.
 
-## Currently Learning
+  
+🎥 Real-Time Mesh Networks: Engineering peer-to-peer audio/video streaming via WebRTC and low-latency signaling hubs via Socket.IO.
 
-- High-Level & Low-Level System Design (HLD/LLD)
-- Distributed systems concepts, message brokers, and event queues
-- Production deployment patterns with Docker and cloud environments
+  
+🧠 Algorithmic Mastery: 500+ algorithmic challenges solved on LeetCode with strong intuition in Dynamic Programming, Graph Traversals, and Binary Search.
 
----
+  
+🛡️ Secure Backend Pipelines: Designing production-grade REST APIs protected by JWT authentication, Bcrypt password hashing, and Role-Based Access Control (RBAC).
 
-## Let's Connect
+  
 
-Open to **Software Engineering (SDE) internships and full-stack/backend opportunities** where I can build reliable, production-ready systems.
+  
 
-- **LinkedIn:** [linkedin.com/in/officialvikas455](https://linkedin.com/in/officialvikas455)
-- **Email:** [gangwarvikas6398@gmail.com](mailto:gangwarvikas6398@gmail.com)
-- **GitHub:** [github.com/officialvikas455](https://github.com/officialvikas455)
-- **LeetCode:** [leetcode.com/vikasgangwar6666](https://leetcode.com/vikasgangwar6666/)
+  
+🛠️ Technical Arsenal
+
+  
+
+  
+💻 Programming Languages
+
+  
+
+
+    
+Languages
+
+  
+
+
+  
+🌐 Frontend Engineering
+
+  
+
+
+    
+Frontend
+
+  
+
+
+  
+⚙️ Backend, Caching & Databases
+
+  
+
+
+    
+Backend and Databases
+
+  
+
+
+  
+🎥 Real-Time Protocols & Network Architecture
+
+  
+
+
+    
+WebRTC
+
+     
+    
+Socket.io
+
+     
+    
+REST APIs
+
+     
+    
+JWT
+
+     
+    
+Nginx
+
+  
+
+
+  
+☁️ Cloud, DevOps & Tools
+
+  
+
+
+    
+DevOps and Tools
+
+  
+
+
+  
+🤖 AI Integration
+
+  
+
+
+    
+Gemini API
+
+     
+    
+LLM APIs
+
+  
+
+
+  
+
+  
+
+  
+🚀 Featured Engineering Projects
+
+  
+1. 🎥 Real-Time Video Conferencing Platform
+
+  
+
+  
+
+Peer-to-peer audio/video conferencing platform featuring low-latency signaling, room authorization, and live in-room collaboration.
+
+
+  
+
+  
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+  
+
+
+  
+
+  
+🔄 Peer-to-Peer Media Channels: Established direct browser-to-browser media streams via WebRTC mesh topology for sub-second audio and video streaming.
+
+  
+⚡ Bidirectional Signaling Hub: Engineered signaling workflows with Socket.IO to manage room discovery, SDP offer/answer handshakes, and ICE candidate negotiation.
+
+  
+🛡️ Room Security: Protected room endpoints using JWT tokens and meeting passcode validation to prevent unauthorized joins.
+
+  
+💬 In-Room Interaction: Implemented real-time dynamic participant roster updates, screen-sharing streams, and synchronous chat messaging.
+
+  
+
+  
+text
+                    ┌─────────────────────────┐
+                    │      React Client       │
+                    └────────────┬────────────┘
+                                 │
+                ┌────────────────┴────────────────┐
+                │                                 │
+                ▼                                 ▼
+        ┌──────────────┐                 ┌────────────────┐
+        │    WebRTC    │                 │   Socket.io    │
+        │ Media Stream │                 │  Signaling Hub │
+        └──────┬───────┘                 └───────┬────────┘
+               │                                 │
+               ▼                                 ▼
+      Peer-to-Peer Mesh                    Node.js Server
+       (Audio / Video)                           │
+                                                 ▼
+                                           Express.js API
+                                                 │
+                                                 ▼
+                                           MongoDB Atlas
+
+  
+
+
+    
+      
+GitHub Repo
+
+    
+
+  
+
+
+  
+
+  
+2. 🏡 WanderLust — Vacation Rental Marketplace
+
+  
+
+  
+
+Full-stack property rental application featuring role-based listing management, cloud media handling, and reservation workflows.
+
+
+  
+
+  
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+  
+
+
+  
+
+  
+🔐 Multi-Role Authorization (RBAC): Granular permission isolation between Admin, Host, and Guest accounts with custom route middleware.
+
+  
+📸 Cloud Asset Pipeline: Multi-file image uploads and automated CDN thumbnail transformations utilizing the Cloudinary API.
+
+  
+⚡ Complete CRUD Operations: Dynamic property listing creation, availability toggles, nested review submissions, and reservation management.
+
+  
+🛡️ Session Security: Protected authentication flows with Bcrypt password hashing and HTTP-only cookie-based JWT sessions.
+
+  
+
+  
+
+
+    
+      
+GitHub Repo
+
+    
+
+  
+
+
+  
+
+  
+3. 📈 Zerodha Clone — FinTech Trading Terminal
+
+  
+
+  
+
+Interactive trading simulator replicating the Zerodha Kite experience with live charting visualizations and real-time portfolio tracking.
+
+
+  
+
+  
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+  
+
+
+  
+
+  
+📊 Live Charting Visualizations: Interactive candlestick graphs, moving averages, and technical indicators powered by Chart.js.
+
+  
+💹 Execution Engine: Realistic buy/sell order transactions, position tracking, dynamic margin deductions, and real-time unrealized P&L calculations.
+
+  
+🗄️ Persistent Ledgers: Comprehensive order audit histories and portfolio balance snapshots stored in MongoDB.
+
+  
+
+  
+
+
+    
+      
+GitHub Repo
+
+    
+
+  
+
+
+  
+
+  
+4. ⚙️ Advance Backend Architecture & Services
+
+  
+
+  
+
+Containerized multi-tier backend services demonstrating cache-aside patterns, reverse proxy routing, and generative AI integration.
+
+
+  
+
+  
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+  
+
+
+  
+
+  
+🐳 Containerization & Routing: Orchestrated multi-service environments with Docker Compose and configured Nginx as a reverse proxy for traffic distribution.
+
+  
+⚡ Caching Layer: Implemented cache-aside patterns with Redis to eliminate redundant database hits and maintain high read throughput.
+
+  
+🤖 GenAI Integration: Integrated the Google Gemini SDK for automated structured response generation with error-boundary middleware.
+
+  
+
+  
+
+
+    
+      
+GitHub Repo
+
+    
+
+  
+
+
+  
+
+  
+🧠 DSA & Problem Solving Milestones
+
+  
+
+  
+  
+    
+  
+
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Platform	Handle	Milestone / Rating	Profile Badge
+LeetCode	@vikasgangwar6666
+	500+ Solved (Top 15%)	
+LeetCode Badge
+
+Codeforces	@vikasgangwar17
+	50+ Contests Participated	
+Codeforces Badge
+
+CodeChef	@gangwar6398
+	2★ Rated Competitive Coder	
+CodeChef Badge
+
+  
+
+  
+
+Core Algorithmic Focus Areas:
+
+
+  
+
+Arrays  •  Two Pointers  •  Sliding Window  •  Binary Search  •  Recursion & Backtracking  •  Linked Lists  •  Stacks & Queues  •  Trees & BST  •  Heaps / Priority Queues  •  Graphs & BFS/DFS  •  Dynamic Programming  •  Greedy Strategies
+
+
+  
+
+  
+
+  
+🐍 Contribution Grid Snake Activity
+
+  
+
+  
+    
+    
+    
+  
+  
+
+  
+
+  
+📊 GitHub Analytics & Productivity Dashboard
+
+  
+
+  
+
+        
+      	
+        
+      
+
+  
+
+  
+  
+  
+
+
+
+
+
+
+  
+  Preview unavailable
+  
+
+  
+
+  
+🎓 Education & Background
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Degree / Course	Institution	Performance	Period
+B.Tech — Information Technology	Samrat Ashok Rajkiya Engineering College, Mirzapur (AKTU)	CGPA: 7.7 / 10	2024 – 2028
+Senior Secondary (Intermediate - PCM)	Jesus & Mary Inter College, Bareilly	87%	2023
+
+  
+
+  
+
+  
+
+  
+
+Core Academic Coursework:
+
+  Data Structures & Algorithms • Object-Oriented Programming (OOP) • Database Management Systems (DBMS) • Operating Systems • Computer Networks • Software Engineering
+
+
+  
+
+  
+
+  
+🔮 Currently Learning & Exploring
+
+  
+
+  
+🏗️ System Design: Studying high-level architecture patterns, horizontal scaling, database sharding, and message queues (Kafka/RabbitMQ).
+
+  
+⚡ Advanced Caching: Exploring Redis cluster topologies and cache invalidation strategies under high concurrency.
+
+  
+🐳 DevOps & Cloud: Practicing multi-stage Docker builds, Kubernetes basics, and CI/CD pipelines with GitHub Actions.
+
+  
+
+  
+
+  
+🤝 Let's Connect
+
+  
+
+  
+
+Open to Software Engineering (SDE) internships and opportunities where I can contribute to backend, full-stack, or real-time products.
+
+
+  
+
+  
+    
+LinkedIn
+
+  
+
+   
+  
+    
+Email
+
+  
+   
+  
+    
+GitHub
+
+  
+
+   
+  
+    
+LeetCode
+
+  
+
+  
+
+
+
+
+
+
+  
+
+"First, solve the problem. Then, write the code." — John Johnson
+
+
+  
+
+  
+  
+Profile Views
+
+  
+
+
+
+
+
+
+  
+    
+Back To Top
+
+  
+  
+
+
+
+
+
+
+  
+  
